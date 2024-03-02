@@ -27,12 +27,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ClementServant/QR-code-FrontendMentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ClementServant/QR-code-challenge-Frontend-Mentor)
+- Live Site URL: [Add live site URL here](https://clementservant.github.io/QR-code-challenge-Frontend-Mentor/)
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5
 - CSS custom properties
 - Flexbox
 
